@@ -1,0 +1,11 @@
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/bin/Debug/netcoreapp2.0/CSharpApp.deps.json
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/bin/Debug/netcoreapp2.0/CSharpApp.runtimeconfig.json
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/bin/Debug/netcoreapp2.0/CSharpApp.runtimeconfig.dev.json
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/bin/Debug/netcoreapp2.0/CSharpApp.dll
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/bin/Debug/netcoreapp2.0/CSharpApp.pdb
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/obj/Debug/netcoreapp2.0/CSharpApp.csproj.CoreCompileInputs.cache
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/obj/Debug/netcoreapp2.0/CSharpApp.AssemblyInfoInputs.cache
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/obj/Debug/netcoreapp2.0/CSharpApp.AssemblyInfo.cs
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/obj/Debug/netcoreapp2.0/CSharpApp.dll
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/obj/Debug/netcoreapp2.0/CSharpApp.pdb
+/home/zero/tutorial/sourcecode/2018-03-26/CSharpApp/bin/Debug/netcoreapp2.0/CSharpApp.dll.config

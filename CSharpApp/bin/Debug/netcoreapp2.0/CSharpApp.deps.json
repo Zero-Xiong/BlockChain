@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "90c42cdb5758120686af423ec4d974ac0811012c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "CSharpApp/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "System.Configuration": "2.0.5",
+          "System.Configuration.ConfigurationManager": "4.4.1",
+          "TinyWebServer.dll": "1.0.1"
+        },
+        "runtime": {
+          "CSharpApp.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "System.Configuration/2.0.5": {},
+      "System.Configuration.ConfigurationManager/4.4.1": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {}
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/4.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "TinyWebServer.dll/1.0.1": {
+        "runtime": {
+          "lib/net40/TinyWebServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "System.Configuration/2.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tZWF9b50mvtCSXgGhPhIKf4wMQb8XfuCQLpNIa7U5MFebSW8BakFRb+kEH3cf6ioAczUsla3QGSYvUBuxzMtlg==",
+      "path": "system.configuration/2.0.5",
+      "hashPath": "system.configuration.2.0.5.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jz3TWKMAeuDEyrPCK5Jyt4bzQcmzUIMcY9Ud6PkElFxTfnsihV+9N/UCqvxe1z5gc7jMYAnj7V1COMS9QKIuHQ==",
+      "path": "system.configuration.configurationmanager/4.4.1",
+      "hashPath": "system.configuration.configurationmanager.4.4.1.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cJV7ScGW7EhatRsjehfvvYVBvtiSMKgN8bOVI0bQhnF5bU7vnHVIsH49Kva7i7GWaWYvmEzkYVk1TC+gZYBEog==",
+      "path": "system.security.cryptography.protecteddata/4.4.0",
+      "hashPath": "system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+    },
+    "TinyWebServer.dll/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zQSS7FOfy4APf2zXwaHH4Sj36NqFMRdiu2yJotgYeYQTmxoZYJEkaSShFkdXe0c3+dusGGOx1UpXZMUWKvFs+g==",
+      "path": "tinywebserver.dll/1.0.1",
+      "hashPath": "tinywebserver.dll.1.0.1.nupkg.sha512"
+    }
+  }
+}
